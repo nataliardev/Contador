@@ -57,7 +57,8 @@ CSS → estilização e layout
 JavaScript → lógica do contador e manipulação do DOM
 
 ---
-▶️ Como executar o projeto
+
+## ▶️ Como executar o projeto
 
 1️⃣ Clone este repositório
 
@@ -74,7 +75,7 @@ cd Contador
 
 ---
 
-##💡 Conceitos praticados
+## 💡 Conceitos praticados
 
 Este projeto ajuda a praticar conceitos importantes do desenvolvimento front-end:
 
@@ -92,7 +93,7 @@ Este projeto ajuda a praticar conceitos importantes do desenvolvimento front-end
 
 ---
 
-##🚀 Possíveis melhorias
+## 🚀 Possíveis melhorias
 
 Algumas melhorias que podem ser implementadas no futuro:
 
@@ -110,13 +111,13 @@ Algumas melhorias que podem ser implementadas no futuro:
 
 ---
 
-##📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT.
 
 ---
 
-##👩‍💻 Autora
+## 👩‍💻 Autora
 
 Feito por Natália Rosa
 
